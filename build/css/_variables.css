@@ -11,7 +11,7 @@
   --sd-global-primary-p75: #a3c0ff;
   --sd-global-primary-p100: #7da6ff;
   --sd-global-primary-p200: #447fff;
-  --sd-global-primary-p300: #631fff;
+  --sd-global-primary-p300: #111;
   --sd-global-primary-p400: #1547b3;
   --sd-global-primary-p500: #123e9c;
   --sd-global-secondary-s50: #ffe6f3;
@@ -62,7 +62,7 @@
   --sd-global-neutrals-n800: #132242;
   --sd-global-neutrals-n900: #071638;
   --sd-global-image-shadow: [object Object];
-  --sd-global-size-md: 64;
-  --sd-global-radius-default: 4px;
+  --sd-global-size-md: 48px;
+  --sd-global-radius-default: 8px;
   --sd-global-font-size-sm: 14px;
 }
