@@ -1,0 +1,68 @@
+/**
+ * Do not edit directly
+ * Generated on Sun, 15 May 2022 15:47:11 GMT
+ */
+
+:root {
+  --sd-global-default-body: #0b1538;
+  --sd-global-default-white: #ffffff;
+  --sd-global-default-black: #000000;
+  --sd-global-primary-p50: #e9f0ff;
+  --sd-global-primary-p75: #a3c0ff;
+  --sd-global-primary-p100: #7da6ff;
+  --sd-global-primary-p200: #447fff;
+  --sd-global-primary-p300: #1e65ff;
+  --sd-global-primary-p400: #1547b3;
+  --sd-global-primary-p500: #123e9c;
+  --sd-global-secondary-s50: #ffe6f3;
+  --sd-global-secondary-s75: #ff96cc;
+  --sd-global-secondary-s100: #ff6bb7;
+  --sd-global-secondary-s200: #ff2b97;
+  --sd-global-secondary-s300: #ff0082;
+  --sd-global-secondary-s400: #b3005b;
+  --sd-global-secondary-s500: #9c004f;
+  --sd-global-success-s50: #e6f9ed;
+  --sd-global-success-s75: #96e8b3;
+  --sd-global-success-s100: #6bdf94;
+  --sd-global-success-s200: #2bd165;
+  --sd-global-success-s300: #00c746;
+  --sd-global-success-s400: #008b31;
+  --sd-global-success-s500: #00792b;
+  --sd-global-warning-w50: #fef9eb;
+  --sd-global-warning-w75: #fde7ac;
+  --sd-global-warning-w100: #fcdd89;
+  --sd-global-warning-w200: #face57;
+  --sd-global-warning-w300: #f9c434;
+  --sd-global-warning-w400: #ae8924;
+  --sd-global-warning-w500: #987820;
+  --sd-global-danger-d50: #fee9e9;
+  --sd-global-danger-d75: #f9a5a5;
+  --sd-global-danger-d100: #f68080;
+  --sd-global-danger-d200: #f34949;
+  --sd-global-danger-d300: #f02424;
+  --sd-global-danger-d400: #a81919;
+  --sd-global-danger-d500: #921616;
+  --sd-global-neutrals-n0: #ffffff;
+  --sd-global-neutrals-n10: #fafafb;
+  --sd-global-neutrals-n20: #f5f6f7;
+  --sd-global-neutrals-n30: #ebecef;
+  --sd-global-neutrals-n40: #dfe1e5;
+  --sd-global-neutrals-n50: #c1c5cd;
+  --sd-global-neutrals-n60: #b2b7c1;
+  --sd-global-neutrals-n70: #a6abb7;
+  --sd-global-neutrals-n80: #979dab;
+  --sd-global-neutrals-n90: #888f9f;
+  --sd-global-neutrals-n100: #798194;
+  --sd-global-neutrals-n200: #6a7388;
+  --sd-global-neutrals-n300: #5b657c;
+  --sd-global-neutrals-n400: #4f5a72;
+  --sd-global-neutrals-n500: #404c66;
+  --sd-global-neutrals-n600: #34405c;
+  --sd-global-neutrals-n700: #22304e;
+  --sd-global-neutrals-n800: #132242;
+  --sd-global-neutrals-n900: #071638;
+  --sd-global-image-shadow: [object Object];
+  --sd-global-size-md: 40;
+  --sd-global-radius-default: 4px;
+  --sd-global-font-size-sm: 14px;
+}
