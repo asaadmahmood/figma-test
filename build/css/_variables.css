@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 15 May 2022 15:51:30 GMT
+ * Generated on Sun, 15 May 2022 16:07:01 GMT
  */
 
 :root {
@@ -62,7 +62,7 @@
   --sd-global-neutrals-n800: #132242;
   --sd-global-neutrals-n900: #071638;
   --sd-global-image-shadow: [object Object];
-  --sd-global-size-md: 48px;
+  --sd-global-size-md: 64;
   --sd-global-radius-default: 8px;
   --sd-global-font-size-sm: 14px;
 }
